@@ -1,0 +1,582 @@
+Identifier,Title,Author,Description,collection
+learn-java-in-21-days,Learn Java In 21 Days,G,Learn about Java in 21 days,opensource
+programming-resources_202402,Programming Resources,Unknown Author,These are the online resources that most of it are related in programming.,opensource
+programming-resources_20240211,Programming Resources,Unknown Author,These are the online resources that most of it are related in programming.,opensource
+java-web-socket-programming-develop-deploy-and-secure-dynamic-web-applications-coward-2013-09-18,"Java Web Socket Programming Develop, Deploy, And Secure Dynamic Web Applications [ Coward 2013 09 18]",f,Programacion websocket java<br />,opensource
+list-of-solution-manual-and-test-bank,List Of Solution Manual And Test Bank,s,"Here is the list of available and ready resources (about 3000 Solution Manual and Test Bank). This PDF file has 107 pages.<br />You can search on it easily.<br /><br />Contact me in order to access the whole complete document.<br />Email: solution9159@gmail.com<br />WhatsApp: https://wa.me/message/2H3BV2L5TTSUF1<br />Telegram: https://t.me/solutionmanual<br /><br />Test Bank for Technician's Guide to Programmable Controllers, 7th Edition by Terry Borden, Richard A. Cox <br />Test Bank for California Politics and Government: A Practical Approach, 15th Edition by Larry N. Gerston, Terry Christensen, Mary Currin-Percival, Garrick Percival <br />Instructor's Solutions Manual for Building Python Programs, 1st Edition Stuart Reges, Marty Stepp, Allison Obourn<br />Test Bank for Starting Out with Programming Logic and Design, 6th Edition by Tony Gaddis <br />Instructor's Solutions Manual for The U.S. Congress: A Simulation for Students, 2nd Edition by Lauren Cohen Bell <br />Test Bank for Introduction to Learning and Behavior, 6th Edition by Russell A. Powell, P. Lynne Honey, Diane G. Symbaluk <br />Instructor's Solutions Manual for Gardner's Art Through the Ages: A Global History, Volume I, 16th Edition by Fred S. Kleiner <br />Test Bank for Western Civilization: A Brief History, 10th Edition by Jackson J. Spielvogel <br />Instructor's Solutions Manual for Inference and Learning from Data: Volume 2 (Inference) by Ali H. Sayed <br />Instructor's Solutions Manual for Fundamentals of Power System Economics, 2nd Edition by Daniel S. Kirschen, Goran Strbac <br />Test Bank for Practical Guide to Digital Forensics Investigations, 2nd Edition by Darren Hayes <br />Test Bank for Single Variable Calculus: Early Transcendentals 4th Edition by Dennis G. Zill, Warren S. Wright <br />Instructor's Solutions Manual for Algebra and Trigonometry, 3rd Edition by Dennis G. Zill, Jacqueline M. Dewar <br />Test Bank for Multivariable Calculus: Early Transcendentals, 4th Edition by Dennis G. Zill, Warren S. Wright <br />Instructor's Solutions Manual for Introduction to Metric and Topological Spaces, 2nd Edition by Wilson A Sutherland <br />Test Bank for International Management: Culture, Strategy, and Behavior, 12th Edition by Fred Luthans, Jonathan Doh, Ajai S. Gaur <br />Test Bank for Stress Management for Life: A Research-Based Experiential Approach, 5th Edition by Michael Olpin, Margie Hesson <br />Instructor's Solutions Manual for Understanding Social Problems, 11th Edition - Instructor Resources by Linda A. Mooney, Molly Clever, Marieke Van Willigen <br />Instructor's Solutions Manual for Object-Oriented Data Structures Using Java, 4th Edition by Nell Dale - Daniel T. Joyce - Chip Weems <br />Instructor's Solutions Manual for Elementary Statistics: A Step By Step Approach, 10th Edition by Allan Bluman <br />Instructor's Solutions Manual for Reinforced Concrete: Mechanics and Design, 8th Edition by James K. Wight <br />Instructor's Solutions Manual for Surveying Fundamentals and Practices, 7th edition by Jerry Nathanson, Michael Lanzafama, Philip Kissam <br /><br />Check more inside PDF file",opensource
+grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curious-people,Grokking Algorithms An Illustrated Guide For Programmers And Other Curious People,Unknown Author,"Grokking Algorithms book for programmers which is going to help you understand programming and how to create nice Algorithms<div style=""font-size:16px;""><br style=""font-size:16px;"" /></div>",opensource
+the-java-language-specification-java-se-21-edition,"The Java Language Specification, Java SE 21 Edition",O,"The Java Language Specification, Java SE 21 Edition",opensource
+httpsjai.in.uaindex.phpd0b0d180d185d196d0b2paper_num1585,INTEGRATION OF THE METHODS OF ALGEBRA OF ALGORITHMS AND COMPUTATIONAL INTELLIGENCE FOR AUTOMATION OF PROGRAM SYSTEMS DESIGN,A,"An approach to the creation of intelligent systems is considered, which combines the ideas of Glushkov’s algebra of algorithms with the well-known neuroevolutionary algorithms of computational intelligence, which can be used to automate the design and synthesis of programs. The method of neuroevolution of augmenting topologies is intended to reduce the dimensionality of the space for searching for neural network parameters in the form of gradual development of its structure in the process of evolution. A software toolkit has been developed to support the approach, which is based on the construction of high-level specifications of algorithms represented in systems of algorithmic algebras, and generation of corresponding programs based on implementation templates in a target programming language. Parameterized algorithms called hyperschemes are used to solve a certain class of problems. Setting specific values of parameters and subsequent interpretation of hyperschemes allows obtaining algorithms adapted to specific application conditions. The developed program design and synthesis toolkit provides step-by-step development of programs, starting from a high-level algebraic-algorithmic specification. At the output of the toolkit, a program is automatically generated in one of the target programming languages (С, С++, Java, Python), that also include a subject-oriented language for designing neural networks. The mentioned language includes operators and conditions for working with populations, configurations, genomes, and fitness function. The work of the toolkit is illustrated by the example of designing a parameterized evaluation algorithm for a binary multiplexer and generation of a program for the single-pole balancing problem.","['aipi.ua-collection', 'additional_collections']"
+ChinaXiv-202308.00375V1,基于信息熵的新媒体环境下网络节点影响力研究——以微信公众号为例,邢云菲,"<div class=""hd"">
+ <h1>
+  
+  基于信息熵的新媒体环境下网络节点影响力研究——以微信公众号为例
+ </h1>
+ <p>
+  Research on the Influence of Network Nodes in New Media Environment Based on Information Entropy: A Case Study of WeChat
+ </p>
+ <div class=""flex"" style=""border:0px;padding-bottom:0px;"">
+ </div>
+ <div class=""bd"" style=""border-bottom:1px solid #ced6e0;"">
+  <ul style=""margin-top:0px;"">
+   <li>
+    <b>
+     作者：
+    </b>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E9%82%A2%E4%BA%91%E8%8F%B2"" style=""color:#3060cc;"" rel=""nofollow"">
+     邢云菲
+    </a>
+    <sup style=""margin-left:0px;"">
+     1
+    </sup>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E7%8E%8B%E6%99%B0%E5%B7%8D"" style=""color:#3060cc;"" rel=""nofollow"">
+     王晰巍
+    </a>
+    <sup style=""margin-left:0px;"">
+     1,2
+    </sup>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E9%9F%A9%E9%9B%AA%E9%9B%AF"" style=""color:#3060cc;"" rel=""nofollow"">
+     韩雪雯
+    </a>
+    <sup style=""margin-left:0px;"">
+     1
+    </sup>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E5%BC%A0%E9%95%BF%E4%BA%AE"" style=""color:#3060cc;"" rel=""nofollow"">
+     张长亮
+    </a>
+    <sup style=""margin-left:0px;"">
+     1
+    </sup>
+   </li>
+   <li>
+    <b>
+     作者单位：
+    </b>
+    <div style=""margin-left:70px;margin-top:-26px;"">
+     <div>
+      1.
+      <a href=""https://chinaxiv.org/user/search.htm?field=affication&amp;value=%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E7%AE%A1%E7%90%86%E5%AD%A6%E9%99%A2%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%20%E9%95%BF%E6%98%A5%20130022"" style=""color:#3060cc;"" rel=""nofollow"">
+       吉林大学管理学院信息管理系 长春 130022
+      </a>
+     </div>
+     <div>
+      2.
+      <a href=""https://chinaxiv.org/user/search.htm?field=affication&amp;value=%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%20%E9%95%BF%E6%98%A5%20130022"" style=""color:#3060cc;"" rel=""nofollow"">
+       吉林大学大数据管理研究中心 长春 130022
+      </a>
+     </div>
+    </div>
+   </li>
+   <li>
+    <b>
+     提交时间：
+    </b>
+    2023-08-26
+   </li>
+  </ul>
+ </div>
+ <div class=""bd"" style=""margin-top:15px;"">
+  <p style=""color:#333;"">
+   <b>
+    摘要:
+   </b>
+   [目的/意义]对新媒体环境下网络节点影响力进行研究，能够深入剖析信息传播规律，从而有助于采取针对性措施对信息传播进行合理控制。[方法/过程]基于信息熵理论构建新媒体环境下网络节点影响力模型，以微信公众号为例进行节点影响力测算，对节点直接影响力、间接影响力和综合影响力进行深入分析，最后运用Matlab软件对所构建模型进行仿真分析。[结果/结论]新媒体环境下网络节点综合影响力随着连接节点数量和节点间互动频率增加而增大，直接影响力和间接影响力也以不同幅度增长，但当间接影响力信息熵值超过100时，直接影响力成为影响节点综合影响力的主要因素。
+  </p>
+  <p style=""color:#333;"">
+   <b>
+    Abstract:
+   </b>
+   [Purpose/significance] The research on the influence of network nodes in new media environment can deeply analyze the law of information dissemination, and thus help to take appropriate measures to control the information dissemination reasonably. [Method/process] This paper constructs the model of users' node influence in the new media environment based on information entropy theory, taking WeChat as an example to analyze the influence of network nodes. By using java programming method, the paper aims to calculate the numerical value of network nodes, including direct influence, indirect influence and total influence. And finally it use Matlab software to simulate the model. [Result/conclusion] Network nodes' total influence increases with the growth in the number of connections and the frequency of interactions between nodes. Direct influence and indirect influence are growing at a different rate, but the direct influence becomes the main factor affecting the comprehensive effect of nodes when the value of indirect influence is over 100.
+  </p>
+  <div class=""brdge"">
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E4%BF%A1%E6%81%AF%E7%86%B5"" rel=""nofollow"">
+     信息熵
+    </a>
+   </span>
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E6%96%B0%E5%AA%92%E4%BD%93"" rel=""nofollow"">
+     新媒体
+    </a>
+   </span>
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E8%8A%82%E7%82%B9%E5%BD%B1%E5%93%8D%E5%8A%9B"" rel=""nofollow"">
+     节点影响力
+    </a>
+   </span>
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E5%BE%AE%E4%BF%A1"" rel=""nofollow"">
+     微信
+    </a>
+   </span>
+  </div>
+  
+  <ul>
+   <li>
+    <b>
+     期刊：
+    </b>
+    <a rel=""nofollow"">
+     图书情报工作
+    </a>
+   </li>
+   <li>
+    <b>
+     分类：
+    </b>
+    <a href=""https://chinaxiv.org/user/search.htm?field=domain&amp;value=20"" rel=""nofollow"">
+     图书馆学、情报学
+    </a>
+    &gt;&gt;
+    <a href=""https://chinaxiv.org/user/search.htm?field=subject&amp;value=327"" rel=""nofollow"">
+     图书馆学
+    </a>
+   </li>
+   <li>
+    <b>
+     引用：
+    </b>
+    <a href=""https://chinaxiv.org/abs/202308.00375"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      ChinaXiv:202308.00375
+     </font>
+    </a>
+    (或此版本
+    <a href=""https://chinaxiv.org/abs/202308.00375v1"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      ChinaXiv:202308.00375V1
+     </font>
+    </a>
+    )
+    <br />
+    <a style=""margin-left:45px;"" rel=""nofollow"">
+     doi:10.12074/202308.00375
+    </a>
+    <br />
+    <a href=""https://www.cstr.cn/CSTR:32003.36.ChinaXiv.202308.00375.V1"" style=""margin-left:45px;"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      CSTR:32003.36.ChinaXiv.202308.00375.V1
+     </font>
+    </a>
+   </li>
+   <li>
+    <b>
+     推荐引用方式：
+    </b>
+    <span>
+     邢云菲,王晰巍,韩雪雯,张长亮.(2023).基于信息熵的新媒体环境下网络节点影响力研究——以微信公众号为例.图书情报工作.[ChinaXiv:202308.00375]
+    </span>
+   </li>
+  </ul>
+ </div>
+ <div class=""ft"">
+  <h4>
+   <span>
+    版本历史
+   </span>
+  </h4>
+  <table style=""font-size:14px;"">
+   <tr>
+    <td>
+     <b>
+      [V1]
+     </b>
+    </td>
+    <td>
+     2023-08-26 23:57:13
+    </td>
+    <td>
+     ChinaXiv:202308.00375V1
+    </td>
+    <td>
+     <a class=""btn"" href=""https://chinaxiv.org/user/download.htm?id=55963"" rel=""nofollow"">
+      下载全文
+     </a>
+    </td>
+   </tr>
+  </table>
+ </div>
+</div>
+","['chinaxivmirror', 'journals']"
+what-is-coding-for-kids-gemslearninginstitute.com,What Is Coding For Kids Gemslearninginstitute.com,h,<div>APP DEVELOPMENT</div><div>VIDEO GAME DEVELOPMENT</div><div>CODING CAMPS</div><div>SENSORS AND CIRCUIT DESIGN</div><div>WEB DEVELOPMENT(HTML/CSS/JAVA SCRIP)</div><div>PYTHON AND OBJECT ORENTIED PROGRAMMING (FOUNDATION TO ADVANCED)</div>,opensource
+20230521-ada-poetical-science-thinking-machine,"20230521 ADA, Poetical Science & Thinking Machine",L,"<p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">Ada, Poetical Science and Thinking Machine</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">In Introduction, Isaacson wrote ""The computer and the internet are among the most important inventions of our era, but few people know who created them"". He also explores the social and cultural forces that provide the atmospher for innovation. The internet was originally built to facilitate collaboration. By contrast, personal computers especially those meant to be used at home, were devised as tools for individual creativity. Isaacson begins this computer and internet history with Ada Lovelace, Lord Byron's daughter, who pioneered computer programming in the 1840s. ""When it comes to computers, there is one other historical figure, not as well known, who embodied the combination of the arts and sciences. Like her famous father, she understood the romance of poetry. Unlike him, she also saw the romance of math and machinery. And that is where our story begins."" (Isaacson, 2015: 20). </span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">I am extremely interested in the story about Ada, poetical science and thinking machine. Regardless, I feel like this history repeating itself and has the potential for AI today to follow and make the thinking machine real and more perfect. The great beauty of the invention. Below I present an excerpt of the two core paragraphs. </span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">""The only legitimate child of the poet Lord Byron, Ada had inherited her father’s romantic spirit, atrait that her mother tried to temper by having her tutored in mathematic.  The combination produced in Ada a love for what she took to calling “poetical science,” which linked her rebellious imagination to her enchantment with numbers."" (Isaacson, 2015: 21).</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">""Ada’s mother, Lady Byron, marveled that it was a “thinking machine”. As for Ada, who would later famously note that machines could never truly think, a friend who went with them to the demonstration reported, “Miss Byron, young as she was, understood its working, and saw the great beauty of the invention.” (Isaacson, 2015: 26).</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">Source: Isaacson, Walter. (2015). The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution. Farmington Hills, Mich: Large Print Press, a part of Gale, Cengage Learning.</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">Bandung, West Java</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">May 21, 2023</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">Levri Ardiansyah</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;"">Indonesian Poet</span><span style=""font-family:Arial;""></span></p><p></p><p class=""MsoNormal"" align=""justify"" style=""text-align:justify;""><span style=""font-family:Arial;""> </span></p>","['opensource', 'community']"
+switchnet4bp,switchnet4bp,S,"Neural Network - Switch Net 4 with backpropagation.<div>Written in Processing, a Java like programming language.</div>","['opensource', 'community']"
+20230910_20230910_1914,Collecting and analyzing news from newspaper posts in facebook using machine learning,M,"<b style=""color:rgb(102,102,102);font-family:roboto, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Abstract</b><span style=""color:rgb(102,102,102);font-family:roboto, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">: Many people use social networks to spend their free time. News, especially at the time of great world changes, began to gain considerable popularity. Washington Post, New York Times, Time, Reuters, Forbes are among the most famous global newspaper publications. An average analyst can spend up to 40 hours a week collecting information about competitors and researching the most popular posts. According to the conducted research, an average of 40 new posts with news per day. The data processing process can be automated using modern information tools to facilitate the routine work of analysts. To analyze the target audience and reach, it is worth considering the text of the message, the number of likes, comments and links. This information was obtained using the Selenium automated web page testing tool using the Java programming language. The time spent on collecting data in the described way from four newspaper editions amounts to approximately 12 hours. The Tensorflow library using the JavaScript programming language is applied to the collected information. Based on information about the number of shares, comments, likes, frequency of news posts, an analysis was carried out using machine learning algorithms. Based on the clustering data, we can observe such a tendency that posts with a large number of likes receive a large number of comments and vice versa. An analysis of the most active hours of users in the network based on news posts is performed. As a result, the highest activity is observed at least three times a day, namely: in the morning hours from 9:00 to 11:00, in the lunch time of the day from 12:00 to 15:00 and in the evening time period from 18:00 to 20:00. This trend is due to the work schedule of most employees during the working week. The resulting statistical information in the work can be used for other content or user behavior in social networks.</span>","['aipi.ua-collection', 'additional_collections']"
+java-entwicklung-von-skalierbaren-anwendungen,Java - Entwicklung Von Skalierbaren Anwendungen,M,"<p class=""MsoNormal"">Eines der wichtigsten Merkmale von Java ist, dass es
+""plattformunabhängig"" ist. Das bedeutet, dass Java-Code auf jeder
+Plattform ausgeführt werden kann, solange eine Java Virtual Machine (JVM)
+vorhanden ist. Dies ermöglicht es Entwicklern, ihren Code einmal zu schreiben
+und ihn dann auf viele verschiedene Arten von Geräten und Betriebssystemen
+auszuführen.<br /><br />Dieses Buch steht in deutscher und in englischer Sprache zum Download bereit.</p><p></p>","['opensource', 'community']"
+java-script-beschleunigen-sie-ihren-code,Java Script Beschleunigen Sie Ihren Code,M,"<p class=""MsoNormal"">JavaScript kann sowohl auf dem Client als auch auf dem
+Server ausgeführt werden. Auf dem Client wird es hauptsächlich verwendet, um
+Benutzerinteraktionen auf einer Webseite zu verarbeiten und die Darstellung der
+Seite zu verändern, ohne dass die gesamte Seite neu geladen werden muss. Auf
+dem Server wird es hauptsächlich mit Node.js verwendet, um Serveranwendungen zu
+entwickeln.<br /><br />Dieses Buch steht in deutscher und in englischer Sprache zum Download bereit.</p><p></p>","['opensource', 'community']"
+step-by-step-gui-with-jdbc-and-my-sql,Step By Step GUI With JDBC And My SQL,Unknown Author,This is my project that I'm doing and am sharing the problems have faced in connection my database with the java program,"['opensource', 'community']"
+module-1-complete-notes,Module 1 Complete Notes,K,Object Oriented Programming using Java,opensource
+the-impact-of-language-syntax-on-the-complexity-of-programs-a-case-study-of-java-and-python,The Impact Of Language Syntax On The Complexity Of Programs A Case Study Of Java And Python,5,"<p style=""line-height:1.785rem;margin:1.43rem 0px 0px;"">Programming is the cornerstone of computer science, yet it is difficult to learn and program. The syntax of a programming language is particularly challenging to comprehend, which makes learning arduous and affects the program's testability. There is currently no literature that definitively gives quantitative evidence about the effect of programming language complex syntax. The main purpose of this article was to examine the effects of programming syntax on the complexity of their source programs. During the study, 298 algorithms were selected and their implementations in Java and Python were analyzed with the cyclomatic complexity matrix. The results of the study show that Python's syntax is less complex than Java's, and thus coding in Python is more comprehensive and less difficult than Java coding. The Mann-Whitney U test was performed on the results of a statistical analysis that showed a significant difference between Java and Python, indicating that the syntax of a programming language has a major impact on program complexity. The novelty of this article lies in the formulation of new knowledge and study patterns that can be used primarily to compare and analyze other programming languages.</p>","['journals_contributions', 'journals']"
+20230911_20230911_0603,Api test automation of search functionality with artificial intelligence,M,"<b style=""color:rgb(102,102,102);font-family:roboto, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Abstract</b><span style=""color:rgb(102,102,102);font-family:roboto, sans-serif;font-size:16px;background-color:rgb(255,255,255);"">: One of the steps in software development is to test the software product. With the development of technology, the testing process has improved to automated testing, which reduces the impact of the human factor on error and speeds up testing. The main software products for testing are considered to be web applications, web services, mobile applications and performance testing. According to the testing pyramid, when testing web services, you need to develop more test cases than when testing a web application. Because automation involves writing software code for testing, the use of ready-made tools will speed up the software development process. One of the most important test indicators is the coverage of search functionality. The search functionality of a web application or web service requires a large number of cases, as you need to provide many conditions for its operation through the free entry of any information on the web page. There is an approach to data-based testing, which involves working with a test data set through files such as CSV, XLS, JSON, XML and others. However, finding input for testing takes a lot of time when creating test cases and automated test scenarios. It is proposed to use artificial data set generators based on real values and popular queries on the website to form a test data set. In addition, it is possible to take into account the probable techniques of developing test cases. It is proposed to conditionally divide the software for testing into several layers: client, test, work with data, checks and reports. The Java programming language has a number of libraries for working at each of these levels. It is proposed to use Rest Assured as a Restful client, TestNG as a library for writing tests with checks, and Allure report for generating reports. It is noted that the proposed approach uses artificial intelligence for automated selection of test cases when creating a test to diversify test approaches and simulate human input and behavior to maximize the use of cases.</span>","['aipi.ua-collection', 'additional_collections']"
+289-updated,Analysis of Code Vulnerabilities in Repositories of GitHub and Rosettacode: A comparative Study,5,"<p style=""line-height:1.785rem;margin:1.43rem 0px 0px;"">Open-source code hosted online at programming portals is present in 99% of commercial software and is common practice among developers for rapid prototyping and cost-effective development. However, research reports the presence of vulnerabilities, which result in catastrophic security compromise, and the individual, organization, and even national secrecy are all victims of this circumstance. One of the frustrating aspects of vulnerabilities is that vulnerabilities manifest themselves in hidden ways that software developers are unaware of. One of the most critical tasks in ensuring software security is vulnerability detection, which jeopardizes core security concepts like integrity, authenticity, and availability. This study aims to explore security-related vulnerabilities in programming languages such as C, C++, and Java and present the disparities between them hosted at popular code repositories. To attain this purpose, 708 programs were examined by severity-based guidelines. A total of 1371 vulnerable codes were identified, of which 327 in C, 51 in C++, and 993 in Java. Statistical analysis also indicated a substantial difference between them, as there is ample evidence that the Kruskal-Wallis H-test p-value (.000) is below the 0.05 significance level. The Mann-Whitney Test mean rank for GitHub (Mean-rank=676.05) and Rosettacode (Mean-rank=608.64) are also different. The novelty of this article is to identify security vulnerabilities and grasp the nature severity of vulnerability in popular code repositories. This study eventually manifests a guideline for choosing a secure programming language as a successful testing technique that targets vulnerabilities more liable to breaching security.</p>","['journals_contributions', 'journals']"
+10.11591eei.v11i3.3187,Distributed big data analysis using Spark parallel data processing,B,"<span class=""markedContent""><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">Nowadays,  the  big  data  marketplace  is  rising  rapidly.  The  big  challenge  is </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">finding  a  system  that  can  store  and  handle  a  huge  size  of  data  and  then </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">processing  that  huge  data  for  mining  the  hidden  knowledge.  This  paper </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">proposed a compr</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">ehensive system that is used for improving </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">big data </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">analysis </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">performance. It contains a fast </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">big data </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">processing engine using Apache Spark </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">and a </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">big data </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">storage environment using Apache Hadoop. The system tests </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">about 11 Gigabytes of text data which are co</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">llected from multiple sources for </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">sentiment  analysis.  Three  different  machine  learning </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">(ML) </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">algorithms  are </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">used in this system which is already supported by the Spark </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">ML</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">package. The </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">system programs were written in Java and Scala programming languages and </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">the constructed model consists of the classification algorithms as well as the </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">pre</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">-</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">processing  steps  in  a  figure  of </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">ML</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">pipeline</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">.  The  proposed  system  was </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">implemented in both central and distributed data processing. Moreover, some </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">datasets manipulation manner</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">s have been applied in the system tests to check </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">which manner provides the best accuracy and time performance. The results </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">showed  that  the  system  works  efficiently  for  treating  big  data,  it  gains </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">excellent accuracy with fast execution time especially in th</span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">e distributed data </span><span style=""font-size:13.7271px;font-family:sans-serif;"" dir=""ltr"">nodes.</span></span>","['journals_contributions', 'journals']"
+compsci-conf-ieeesaner-2022-165-flexible-semi-automatic-support-for-type-migration,Flexible Semi Automatic Support For Type Migration Of Primitives For C⁄ C++ Programs,S,"<div>Type systems are crucial tools in the hands of developers to ensure an increased level of soundness to their programs, make them safer, and guard against bugs.</div><div>However, in practice, the type system is not always used to its full capability, and trade-offs are made.</div><div>The effects range from hindered code comprehension and wasted development effort to financial damages and even the risk of loss of life.</div><div>Various widely used programming languages, such as C++, Java, Python, and Rust, are yet to implement constrained types as a language feature.<br /></div><div>While the usage of user-defined types is common in modern languages that support such elements, developers often resort to having their variables use the most common, fundamental, built-in or library types, such as int or string, and not encode invariants into the type system.</div><div><br /></div><div>In this paper, we describe a flexible, incremental, semi-automated type migration approach that allows transitioning from the use of fundamental coarse types to strong types.</div><div>Previously, well-scaling type migration methods were restricted and required the existence of an already well- defined destination type.</div><div>In our case, the new strong type to be created is not yet defined, but the required interface is discovered via static analysis.</div><div>As refactoring tools would cease to function if the code is changed textually to a version that refers undefined symbols, a more granular approach was needed.</div><div>In addition, our proposed method allows us to discover the mixing of conceptually distinct types during development while the original program continues to function.<br /></div>","['opensource', 'community']"
+10.11591ijres.v11.i1.pp34-48,Design and implementation of an automated office environment  system using embedded sensors,Unknown Author,"Office automation is the process using machines with the help of embedded 
+computing perform the office activities and its tools and applications. The 
+office automated using computer-aided processing stored, visual and audio 
+data to simplify, improve, and automate the power saving and time 
+management of the organization. A very important component of office 
+automation concerns the automation of employee centred activities such as 
+authentication, automatic alerting of appointments and automatic powering 
+on/off personal computer. The employee image is captured using Java media 
+framework, attendance records for all employees is gathered and processed 
+automatically, and they can be accessed from the database on a monthly or 
+weekly basis. The various software and hardware components of the system 
+were developed and integrated to form the Exypnos Office System and 
+validated on real life scenarios. Java proved to be a versatile platform for 
+implementing a project of this nature with diverse requirements. Web 
+camera interfacing and image capturing are implemented in the Java 
+environment with the help of Java media framework (JMF). Java short 
+message service (SMS) application programming interface (API) and 
+Bluetooth technology is used for sending schedules through SMS. Radio 
+frequency identification (RFID) systems use many different frequencies, but 
+the most common and widely used and supported by our reader is 125 kHz. 
+Office automation systems have more benefits to an organization. The 
+project is implemented on MS Windows platform and in future can be 
+implemented in Linux platform.
+","['journals_contributions', 'journals']"
+the-java-language-specification-java-se-18-edition,"The Java Language Specification, Java SE 18 Edition",O,"The Java Language Specification, Java SE 18 Edition <br />",opensource
+iuliana-cosmina-java-17-for-absolute-beginners-learn-the-fundamentals-of-java-pr,Java 17 For Absolute Beginners Learn The Fundamentals Of Java Programming Apress ( 2022),I,Java Programming for absolute beginners,"['opensource', 'community']"
+the-java-language-specification-java-se-17-edition,"The Java Language Specification, Java SE 17 Edition",O,"The Java Language Specification, Java SE 17 Edition",opensource
+the-java-language-specification-java-se-16-edition,"The Java Language Specification, Java SE 16 Edition",O,"The Java Language Specification, Java SE 16 Edition <br />",opensource
+ERIC_ED615543,ERIC ED615543: Knowing &quot;When&quot; and &quot;Where&quot;: Temporal-ASTNN for Student Learning Progression in Novice Programming Tasks,E,"As students learn how to program, both their programming code and their understanding of it evolves over time. In this work, we present a general data-driven approach, named ""Temporal-ASTNN"" for modeling student learning progression in open-ended programming domains. Temporal-ASTNN combines a novel neural network model based on abstract syntactic trees (AST), named ASTNN, and Long-Short Term Memory (LSTM) model. ASTNN handles the ""linguistic"" nature of student programming code, while LSTM handles the ""temporal"" nature of student learning progression. The effectiveness of ASTNN is first compared against other models including a state-of-the-art algorithm, Code2Vec across two programming domains: iSnap and Java on the task of program classification (""correct"" or ""incorrect""). Then the proposed temporal-ASTNN is compared against the original ASTNN and other temporal models on a challenging task of student success early prediction. Our results show that Temporal-ASTNN can achieve the best performance with only the first 4-minute temporal data and it continues to outperform all other models with longer trajectories. [For the full proceedings, see ED615472.]","['ericarchive', 'additional_collections']"
+doi-10.11591eei.v9i5.2268,An improved ant colony optimization algorithm for wire optimization,B,"Wire optimization has become one of the greatest challenges in today’s
+circuit design. This paper presents a method for wire optimization in circuit
+routing using an improved ant colony optimization with Steiner nodes
+(ACOSN) algorithm. Circuit delay and power dissipation are primarily
+affected by the length of the routed wire. Thus, the main goal of this
+proposed algorithm is to find the shortest route from one point to another
+using an algorithm that relies on the artificial behavior of ants. The algorithm
+is implemented in the JAVA programming language. The proposed ACOSN
+algorithm is compared with the conventional ant colony optimization (ACO)
+algorithm in terms of efficiency and routing performance when applied to
+three types of circuits: emitter-coupled logic, 741 output and a cascode
+amplifier. The performance of the proposed method is analyzed based on
+circuit information such as total wire routing, total number of nets, total wire
+reduction, terminals per net and total terminals. From the simulation analysis,
+it is shown that the proposed ACOSN algorithm gives the most benefit to
+complex circuits, where it successfully reduces the wire length by 21.52% for
+a cascode amplifier circuit, 14.49% for a 741 output circuit, and 10.43% for
+emitter-coupled logic circuit. ","['folkscanomy_academic', 'folkscanomy', 'additional_collections']"
+the-java-language-specification-java-se-15-edition,"The Java Language Specification, Java SE 15 Edition",O,"The Java Language Specification, Java SE 15 Edition",opensource
+ERIC_ED608053,ERIC ED608053: Student Teamwork on Programming Projects What Can GitHub Logs Show Us?,E,"Teamwork, often mediated by version control systems such as Git and Apache Subversion (SVN), is central to professional programming. As a consequence, many colleges are incorporating both collaboration and online development environments into their curricula even in introductory courses. In this research, we collected GitHub logs from two programming projects in two offerings of a CS2 Java programming course for computer science majors. Students worked in pairs for both projects (one optional, the other mandatory) in each year. We used the students' GitHub history to classify the student teams into three groups, ""collaborative,"" ""cooperative,"" or ""solo-submit,"" based on the division of labor. We then calculated different metrics for students' teamwork including the total number and the average number of commits in different parts of the projects and used these metrics to predict the students' teamwork style. Our findings show that we can identify the students' teamwork style automatically from their submission logs. This work helps us to better understand novices' habits while using version control systems. These habits can identify the harmful working styles among them and might lead to the development of automatic scaffolds for teamwork and peer support in the future. [For the full proceedings, see ED607784.]","['ericarchive', 'additional_collections']"
+most-essential-concepts-of-java-script,Most Essential Concepts Of Java Script,S,An E Book containing the most essential concepts of the JavaScript Programming language explained in the form of articles. The book is authored by Satyapriya Mishra & Bhanu Maniktahla.<div>This is part of notes prepared while training for code2stepup.com.</div><div> </div>,"['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+js-the-first-20-years,JavaScript: The First 20 Years,B,"<div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">How a sidekick scripting language for Java, created at Netscape in a ten-day hack, ships first as a de facto</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> Web standard and eventually becomes the world’s most widely used programming language. This paper tells</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> the story of the creation, design, evolution, and standardization of the JavaScript language over the period of</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> 1995-2015. But the story is not only about the technical details of the language. It is also the story of how</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> people and organizations competed and collaborated to shape the JavaScript language which dominates the</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> Web of 2020.</span></div><div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""><br /></span></div><div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">DOI: https://dl.acm.org/doi/10.1145/3386327<br /></span></div>","['opensource', 'community']"
+2020-05-023-njstr,2020 05 023 NJSTR,O,"This paper presents a design and implementation of a fingerprintbased class attendance management system for convenient, efficient
+and effective record keeping of lectures. The class attendance
+management system was designed using Java, MySQL, for the
+backend and HTML, CSS, for the frontend through various platforms
+such as android studio. The system was carried out to meet both
+functional and non-functional requirements of the educational
+system as well as achieving a stable, maintainable, secure and
+reliable system. Testing was carried out to ensure the system
+requirements were met. ","['opensource', 'community']"
+scope-of-android-mobile-application-development-in-india,Scope of Android Mobile Application Development in India,M,"<span style=""color:rgb(51,51,51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);"">Android accounts for approximately 85% of all devices sold today. Android Application Development simply means developing new applications that can run on the devices powered by android operating system. Google states that ""Android applications can be written using Kotlin (an alternate programming language for developing android applications. Many renowned technology firms have started using Kotlin for developing their android applications such as Pinterest, Uber, Atlassian, Pivotal etc.), Java, and C++ languages"" using the Android software development kit, while using other languages is also possible. When thinking about the scope of Android Application Development in India (one of the fastest growing nations in the world as far as IT market is concerned) -- one of the major benefits of choosing android application development is astonishing job opportunities associated with it. Many IT firms and startups require android application developers who can create cost effective apps that are capable of delivering best user experience.</span>","['opensource', 'community']"
+linux-commands-c-c-java-python-exercise-for-beginners-obooko_202104,"Linux Commands, C, C++, Java and Python Exercises For Beginners",M,"<span style=""color:rgb(95,99,104);font-family:Roboto, Arial, sans-serif;font-size:14px;letter-spacing:0.2px;background-color:rgb(255,255,255);"">An approachable manual for new and experienced programmers that introduces the programming languages C, C++, Java, and Python. This book is for all programmers, whether you are a novice or an experienced pro. It is designed for an introductory course that provides beginning engineering and computer science students with a solid foundation in the fundamental concepts of computer programming. It also offers valuable perspectives on important computing concepts through the development of programming and problem-solving skills using the languages C, C++, Java, and Python. The beginner will find its carefully paced exercises especially helpful. Of course, those who are already familiar with programming are likely to derive more benefits from this book. After reading this book you will find yourself at a moderate level of expertise in C, C++, Java and Python, from which you can take yourself to the next levels. The command-line interface is one of the nearly all well built trademarks of Linux. There exists an ocean of Linux commands, permitting you to do nearly everything you can be under the impression of doing on your Linux operating system. However, this, at the end of time, creates a problem: because of all of so copious commands accessible to manage, you don't comprehend where and at which point to fly and learn them, especially when you are a learner. If you are facing this problem, and are peering for a painless method to begin your command line journey in Linux, you've come to the right place-as in this book, we will launch you to a hold of well liked and helpful Linux commands. This book gives a thorough introduction to the C, C++, Java, and Python programming languages, covering everything from fundamentals to advanced concepts. It also includes various exercises that let you put what you learn to use in the real world.</span>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+beginners-guide-c-java-manjunath-obooko_202104,"C, C++, Java, Python, PHP, JavaScript and Linux For Beginners",M,"<div style=""border:0px;margin:0px;padding:0px;color:rgb(95,99,104);line-height:inherit;font-family:Roboto, Arial, sans-serif;font-size:14px;vertical-align:baseline;letter-spacing:0.2px;background-color:rgb(255,255,255);""><span class=""LKWyGd"" style=""border:0px;color:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;font-family:inherit;margin:0px;padding:0px;vertical-align:baseline;"">An ideal addition to your personal elibrary. With the aid of this indispensable reference book, you may quickly gain a grasp of Python, Java, JavaScript, C, C++, CSS, Data Science, HTML, LINUX and PHP. It can be challenging to understand the programming language's distinctive advantages and charms. Many programmers who are familiar with a variety of languages frequently approach them from a constrained perspective rather than enjoying their full expressivity. Some programmers incorrectly use Programmatic features, which can later result in serious issues. The programmatic method of writing programs—the ideal approach to use programming languages—is explained in this book. This book is for all programmers, whether you are a novice or an experienced pro. Its numerous examples and well paced discussions will be especially beneficial for beginners. Those who are already familiar with programming will probably gain more from this book, of course. I want you to be prepared to use programming to make a big difference.</span></div><div><span class=""LKWyGd"" style=""border:0px;color:inherit;font-style:inherit;font-variant:inherit;font-weight:inherit;line-height:inherit;font-family:inherit;margin:0px;padding:0px;vertical-align:baseline;""><br /></span></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+the-java-language-specification-java-se-14-edition,"The Java Language Specification, Java SE 14 Edition",O,"The Java Language Specification, Java SE 14 Edition<br />",opensource
+31-20656,JAVA and DART programming languages: Conceptual comparison,A,"This paper elaborates on the concepts of a new programming language 
+“Dart”, which has been developed by Google and considered for future use. 
+Here, we compare it to the most famous, real time, and updated language 
+“Java”. This is to define similarities and differences between the two 
+important languages, explain programs’ behavior, with a focus on 
+investigating alternative implementation strategies and problem definitions. 
+We used programming languages’ concepts and terminologies to compare between the main characteristics of the two languages, Dart &amp; Java.","['journals_contributions', 'journals']"
+java-language,FOUNDATIONS OF JAVA PROGRAMMING FOR THE OOP OPTION OF THE IB COMPUTER SCIENCE EXAM,C,Java programming language tutorial,"['opensource', 'community']"
+jre-8u271-windows-x64,Java SE Runtime Environment  Java SE Runtime Environment  - jre-8u271-windows-x64 - jre-8u271-windows-x64,O, Java SE Runtime Environment  - jre-8u271-windows-x64<br />,"['opensource_media', 'community']"
+398-406_202108,Methods of simulation mathematical modeling of the Russian derivatives market in modern times,Unknown Author,"<p style=""margin:5px 0px;color:rgb(102,102,102);font-family:'PT Sans', sans-serif;font-size:17px;background-color:rgb(255,255,255);""><strong>Introduction.</strong> The paper is devoted to simulation modeling. Basic methods of the simulation mathematical modeling in the derivatives market are described. A group of realistic nonGaussian Levy processes that generalize the classical BlackScholes model is considered. The work objective is to study the most efficient methods of market forecasting, as well as the software implementation of the simulation mathematical modeling technique of the Russian derivatives market based on the Levy model. This research is relevant due to the demand for applications that simulate the dynamics of financial assets and evaluate options in realistic models of the derivatives market, allowing for jumps.</p><p style=""margin:5px 0px;color:rgb(102,102,102);font-family:'PT Sans', sans-serif;font-size:17px;background-color:rgb(255,255,255);""><strong>Materials and Methods.</strong> Basic methods for forecasting the derivatives market, methods for determining the volatility rate at a known option price, are considered. The most effective types of Levy processes for the simulation mathematical modeling of the Russian derivatives market at the present stage are highlighted. The possibilities of the Java language for the implementation of mathematical methods are considered.</p><p style=""margin:5px 0px;color:rgb(102,102,102);font-family:'PT Sans', sans-serif;font-size:17px;background-color:rgb(255,255,255);""><strong>Research Results.</strong> A program is developed in the Java programming language that implements the Levy mathematical model, which includes Gaussian and generalized Poisson processes. The program for calculating the mathematical method is created in the free integrated application development environment NetBeans IDE to work with any operating system.</p><p style=""margin:5px 0px;color:rgb(102,102,102);font-family:'PT Sans', sans-serif;font-size:17px;background-color:rgb(255,255,255);""><strong>Discussion and Conclusions.</strong> The result of the simulation mathematical modeling analysis has shown that the most efficient methods in the derivatives market are those based on realistic non-Gaussian Levy processes. The software implementation of such mathematical methods can be used for educational purposes. The developed application has demonstrated high quality and speed of calculations using software resources.</p>","['folkscanomy_academic', 'folkscanomy', 'additional_collections']"
+61-60-20386-paper-id-238-edit-lia,Performance comparison of Java based parallel programming models,M,"Parallel programming has been implemented in many areas to solve various 
+computational problem with the aim, to improve the performance and 
+scalability of the software application. There are a few parallel programming 
+models commonly used, namely, threads, and message passing (distributed) 
+models. Furthermore, various APIs have been proposed to implement these 
+models based on two popular languages, notably, C/C++ and Java. A few 
+studies have been done to compare the performance of parallel programming 
+models, specifically, pure versus hybrid model. However, most of existing 
+comparisons targeted on MPI/OpenMP based on C/C++ language. In this 
+paper, our aim is to explore the performance comparison between threads, 
+message passing and hybrid model in Java, specifically using Java 
+multithreading and MPJ Express. For this reason, we have chosen a problem 
+called word count occurrence which is significant in Natural Language 
+Processing and use it to design and implement the parallel programs. We 
+then present their performance and discuss the results. ","['journals_contributions', 'journals']"
+the-java-language-specification-java-se-13-edition,"The Java Language Specification, Java SE 13 Edition",O,"The Java Language Specification, Java SE 13 Edition",opensource
+doi-10.11591eei.v8i1.1447,Haze alarm visual map (HazeViz): an intelligent haze forecaster,B,"The haze problem has intensified in recent years. The particulate matter of
+less than 10 microns in size, PM10 is the dominant air pollutant during haze.
+In this paper, we present the development of HazeViz, a Haze Alarm Visual
+Map forecaster, which is based on PM10. The intelligent web application
+allows users to visualize the pattern of PM10 in a region, forecasts PM10
+value and alarms bad haze condition. HazeViz was developed using HTML,
+Java Script, PHP, MySQL, R Programming and Fusionex Giant. The
+SARIMA statistical forecasting models that underlie the application were
+developed using R. The PM10 trend analysis, and the consequential map and
+chart visualizations were implemented on the Fusionex GIANT Big Data
+Analytics platform. HazeViz was developed in the context of the Klang
+Valley, our case study. The dataset was obtained from Department of
+Environment Malaysia, which contains a total of 157,680 hourly PM10 data
+for six stations in Klang Valley, for the years 2013 to 2015. The SARIMA
+models were developed using maximum daily PM10 data for 2013 and 2014,
+and the 2015 data was used to validate the model. The fitting models were
+determined based on the Mean Absolute Error (MAE), Root Mean Square
+Error (RMSE) and Mean Absolute Percentage Error (MAPE). While the
+selected models were implemented in HazeViz and successfully deployed on
+the web, the results show that the selected models have MAPE ranging
+between 35 percent and 45 percent, which implies that the models are still far
+from robust. Future work can consider augmented SARIMA models that can
+yield improved results. ","['folkscanomy_academic', 'folkscanomy', 'additional_collections']"
+the-java-language-specification-java-se-12-edition,"The Java Language Specification, Java SE 12 Edition",O,"The Java Language Specification, Java SE 12 Edition <br />",opensource
+pemrograman-berorientasi-objek-menggunakan-java-net-beans,Pemrograman Berorientasi Objek Menggunakan Java & Net Beans,D,"<span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Pemrograman Berorientasi Objek Menggunakan Java & NetBeans Penulis :</span><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Daniel Swanjaya, M.Kom. </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Intan Nur Farida, M.Kom. </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);""><br /></span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 1 : Pendahuluan </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 2 : Dasar Java </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 3 : Struktur Kontrol </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 4 : Method </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 5 : Pemrograman Berorientasi Objek </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 6 : Exception Handling, Java Util, Operasi File, Penanganan Waktu & Java Math </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab7 : Graphical User Interface </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 8 : Multi Document Interface </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 9 : Java Database Connectivity </span></div><div><span style=""color:rgb(28,38,61);font-family:'Source Sans Pro', sans-serif;font-size:16px;background-color:rgb(255,255,255);"">Bab 10 : Java Report</span></div>","['booksbylanguage_indonesian', 'booksbylanguage']"
+ProgremingIsLikePlayingAGameConverted,Progreming Is Like Playing A Game Converted,M,Its a Java Programming book<div><br /></div>,"['opensource', 'community']"
+mccl_10.1016_j.envsoft.2018.11.012,"The MESSAGEix Integrated Assessment Model and the ix modeling platform (ixmp): An open framework for integrated and cross-cutting analysis of energy, climate, the environment, and sustainable development",Daniel Huppmann,"The MESSAGE Integrated Assessment Model (IAM) developed by IIASA has been a central tool of energy-environment-economy systems analysis in the global scientific and policy arena. It played a major role in the Assessment Reports of the Intergovernmental Panel on Climate Change (IPCC); it provided marker scenarios of the Representative Concentration Pathways (RCPs) and the Shared Socio-Economic Pathways (SSPs); and it underpinned the analysis of the Global Energy Assessment (GEA). Alas, to provide relevant analysis for current and future challenges, numerical models of human and earth systems need to support higher spatial and temporal resolution, facilitate integration of data sources and methodologies across disciplines, and become open and transparent regarding the underlying data, methods, and the scientific workflow. In this manuscript, we present the building blocks of a new framework for an integrated assessment modeling platform; the “ecosystem” comprises: i) an open-source GAMS implementation of the MESSAGE energy++ system model integrated with the MACRO economic model; ii) a Java/database back-end for version-controlled data management, iii) interfaces for the scientific programming languages Python & R for efficient input data and results processing workflows; and iv) a web-browser-based user interface for model/scenario management and intuitive “drag-and-drop” visualization of results. The framework aims to facilitate the highest level of openness for scientific analysis, bridging the need for transparency with efficient data processing and powerful numerical solvers. The platform is geared towards easy integration of data sources and models across disciplines, spatial scales and temporal disaggregation levels. All tools apply best-practice in collaborative software development, and comprehensive documentation of all building blocks and scripts is generated directly from the GAMS equations and the Java/Python/R source code.","['mendeley_climate_change_library', 'folkscanomy_academic', 'folkscanomy', 'additional_collections']"
+analysisofdatadr1094561353,ANALYSIS OF DATA-DRIVEN WEB APPLICATION VERSUS PROCESS-DRIVEN APPLICATION,A,"Enterprise applications are a type of software used in organizations to provide the functions for one or more business domains. The standard approach to developing enterprise application is using common programming platforms like Java EE or Microsoft .NET. However, in recent years new enterprise applications development platforms called Business Process Management Systems (BPMSs) have emerged. BPMS providers claim that their technologies allow organizations to develop enterprise applications faster than by using traditional applications development platforms. No comprehensive comparison of using the two approaches has yet been conducted. The purpose of this study is to compare two enterprise application features, persistence and messaging, available in both technologies—here, Java EE and Bonita BPM. The findings of this study revealed that developing applications using Bonita BPM takes less effort than using Java EE. However, facilitating applications development with Bonita BPM comes with a cost, which is that it limits the developer's ability to use specific preconfigured persistence and messaging technology.","['navalpostgraduateschoollibrary', 'fedlink']"
+ChinaXiv-201809.00131V1,API文档缺陷自动检测和修复方法,王长志,"<div class=""hd"">
+ <h1>
+  
+  API文档缺陷自动检测和修复方法
+ </h1>
+ <div class=""flex"" style=""border:0px;padding-bottom:0px;"">
+ </div>
+ <div class=""bd"" style=""border-bottom:1px solid #ced6e0;"">
+  <ul style=""margin-top:0px;"">
+   <li>
+    <b>
+     作者：
+    </b>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E7%8E%8B%E9%95%BF%E5%BF%97"" style=""color:#3060cc;"" rel=""nofollow"">
+     王长志
+    </a>
+    <sup style=""margin-left:0px;"">
+     1
+    </sup>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E5%91%A8%E5%AE%87"" style=""color:#3060cc;"" rel=""nofollow"">
+     周宇
+    </a>
+    <sup style=""margin-left:0px;"">
+     1,2
+    </sup>
+    <a href=""https://chinaxiv.org/user/search.htm?field=author&amp;value=%E9%97%AB%E9%91%AB"" style=""color:#3060cc;"" rel=""nofollow"">
+     闫鑫
+    </a>
+    <sup style=""margin-left:0px;"">
+     1
+    </sup>
+   </li>
+   <li>
+    <b>
+     作者单位：
+    </b>
+    <div style=""margin-left:70px;margin-top:-26px;"">
+     <div>
+      1.
+      <a href=""https://chinaxiv.org/user/search.htm?field=affication&amp;value=%E5%8D%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2"" style=""color:#3060cc;"" rel=""nofollow"">
+       南京航空航天大学 计算机科学与技术学院
+      </a>
+     </div>
+     <div>
+      2.
+      <a href=""https://chinaxiv.org/user/search.htm?field=affication&amp;value=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%20%E8%BD%AF%E4%BB%B6%E6%96%B0%E6%8A%80%E6%9C%AF%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E5%AE%9E%E9%AA%8C%E5%AE%A4"" style=""color:#3060cc;"" rel=""nofollow"">
+       南京大学 软件新技术国家重点实验室
+      </a>
+     </div>
+    </div>
+   </li>
+   <li>
+    <b>
+     提交时间：
+    </b>
+    2018-09-13
+   </li>
+  </ul>
+ </div>
+ <div class=""bd"" style=""margin-top:15px;"">
+  <p style=""color:#333;"">
+   <b>
+    摘要:
+   </b>
+   应用程序编程接口(application programming interface，API)在软件开发中起着非常关键的作用，而API文档的质量会严重影响开发人员对API的使用。为了完善API文档，提出了基于程序静态分析和自然语言处理的自动检测和修复API文档缺陷的方法，该方法能自动检测和修复API文档缺陷。实验中，缺陷检测结果的准确率和召回率分别达到74.6%和81.4%，能够较为准确地检测到java API的文档缺陷。在进一步的实验中，还对API文档的修复功能进行了评估，结果表明生成的文档正确且简洁，可以有效地修复API文档缺陷。
+  </p>
+  <p style=""color:#333;"">
+   <b>
+    Abstract:
+   </b>
+   Application Programming Interface (API) play an important role with respect to software development. Particularly, the quality of API documentation tends to have a severe impact on the use of APIs for developers. In this paper, for improving API documentation, a novel approach is proposed to automatically detect and repair defective API documentation by adopting techniques of program static analysis and natural language processing. Across empirical studies, the proposed approach gives a precision of 74.6% and a recall of 81.4%, which demonstrates that the approach can accurately detect the defective documentation in java APIs. For further experiments, the function of repair recommendation for API documentation is evaluated. The results indicate that the generated recommendations are correct and succinct, and can repair API documentation effectively.
+  </p>
+  <div class=""brdge"">
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=Java%20API%20%E6%96%87%E6%A1%A3"" rel=""nofollow"">
+     Java API 文档
+    </a>
+   </span>
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E7%A8%8B%E5%BA%8F%E5%BC%82%E5%B8%B8"" rel=""nofollow"">
+     程序异常
+    </a>
+   </span>
+   <span class=""spankwd"">
+    <a href=""https://chinaxiv.org/user/search.htm?field=keywords&amp;value=%E4%BF%AE%E5%A4%8D%E5%BB%BA%E8%AE%AE"" rel=""nofollow"">
+     修复建议
+    </a>
+   </span>
+  </div>
+  
+  <ul>
+   <li>
+    <b>
+     期刊：
+    </b>
+    <a rel=""nofollow"">
+     计算机应用研究
+    </a>
+   </li>
+   <li>
+    <b>
+     分类：
+    </b>
+    <a href=""https://chinaxiv.org/user/search.htm?field=domain&amp;value=243"" rel=""nofollow"">
+     计算机科学
+    </a>
+    &gt;&gt;
+    <a href=""https://chinaxiv.org/user/search.htm?field=subject&amp;value=244"" rel=""nofollow"">
+     计算机科学的集成理论
+    </a>
+   </li>
+   <li>
+    <b>
+     引用：
+    </b>
+    <a href=""https://chinaxiv.org/abs/201809.00131"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      ChinaXiv:201809.00131
+     </font>
+    </a>
+    (或此版本
+    <a href=""https://chinaxiv.org/abs/201809.00131v1"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      ChinaXiv:201809.00131V1
+     </font>
+    </a>
+    )
+    <br />
+    <a style=""margin-left:45px;"" rel=""nofollow"">
+     doi:10.12074/201809.00131
+    </a>
+    <br />
+    <a href=""https://www.cstr.cn/CSTR:32003.36.ChinaXiv.201809.00131.V1"" style=""margin-left:45px;"" rel=""nofollow"">
+     <font color=""#0000FF"">
+      CSTR:32003.36.ChinaXiv.201809.00131.V1
+     </font>
+    </a>
+   </li>
+   <li>
+    <b>
+     推荐引用方式：
+    </b>
+    <span>
+     王长志,周宇,闫鑫.(2018).API文档缺陷自动检测和修复方法.计算机应用研究.[ChinaXiv:201809.00131]
+    </span>
+   </li>
+  </ul>
+ </div>
+ <div class=""ft"">
+  <h4>
+   <span>
+    版本历史
+   </span>
+  </h4>
+  <table style=""font-size:14px;"">
+   <tr>
+    <td>
+     <b>
+      [V1]
+     </b>
+    </td>
+    <td>
+     2018-09-13 17:14:46
+    </td>
+    <td>
+     ChinaXiv:201809.00131V1
+    </td>
+    <td>
+     <a class=""btn"" href=""https://chinaxiv.org/user/download.htm?id=26599"" rel=""nofollow"">
+      下载全文
+     </a>
+    </td>
+   </tr>
+  </table>
+ </div>
+</div>
+","['chinaxivmirror', 'journals']"
+IDOL-OC-AJ-MAY-2018-QP,Advanced Java (Elective – I) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['opensource', 'community']"
+IDOL-OC-BPR-MAY-2018-QP,BPR (Elective – II) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['opensource', 'community']"
+IDOL-OC-ERP-MAY-2018-QP,ERP Systems (Elective – II) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-ESP-MAY-2018-QP,Embedded Systems And Programming (Elective – I) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-GIS-MAY-2018-QP,GIS (Elective – II) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-IS-MAY-2018-QP,Internet Security (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-M-MAY-2018-QP,Multimedia (Elective – I) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-MIS-MAY-2018-QP,Management Information Systems (Elective – II) (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-SQL-2-MAY-2018-QP,SQL – 2 (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-VB-6-MAY-2018-QP,Visual Basic – 6 (May – 2018) [IDOL - Old Course | Question Paper],K,"May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+IDOL-OC-WD-MAY-2018-QP,Web Design and Internet Based Applications (Elective – I) (May – 2018) [IDOL - Old Course | Question Paper],K,"<b><u>Web Design and Internet Based Applications (Elective – I) (May – 2018) [IDOL - Old Course | Question Paper]</u></b><div><br /></div><div><i>May - 2018, question papers, old question paper, mumbai university, bscit, tybscit, tybscit semester v, semester v question paper, old course, semester v old course, old course question paper, mumbai university old course, Internet Security, SQL - 2, Visual Basic - 6, Elective - I, Advanced Java, Embedded Systems And Programming, Multimedia, Web Design and Internet Based Applications, Elective - II, BPR, ERP Systems, GIS, Management Information Systems</i><br /></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+SEM-V-IDOL-OC-MAY-2018-QP,B.Sc.IT: SEMESTER - V (May - 2018) [IDOL: Old Course | Question Paper],K,"<div><b><u>B.Sc.IT: SEMESTER - V (May - 2018) [IDOL: Old Course | Question Paper]</u></b><br /></div><div><b><u><br /></u></b></div><div><b>advanced java, bscit, elective - i, embedded systems and </b><i>programming, internet security, may - 2018, multimedia, mumbai university, mumbai university old course, old course, old course question paper, old question paper, question papers, semester v old course, semester v question paper, sql - 2, tybscit, tybscit semester v, visual basic - 6, web design and internet based applications</i><br /></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+BSCITSEMVSYLLABUS,B.Sc.IT: Semester - V – Syllabus (2018 - 2019) [Mumbai University] ,K,"<b><u>B.Sc.IT: Semester - V – Syllabus (2018 - 2019) [Mumbai University] </u></b><div><b><u><br /></u></b></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_AWP,Advanced Web Programming – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Advanced Web Programming – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_EJ,Enterprise Java – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Enterprise Java – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_IOT,Internet of Things – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Internet of Things – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_LSA,Linux System Administration – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Linux System Administration – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_SPM,Software Project Management – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Software Project Management – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+the-java-language-specification-java-se-11-edition,"The Java Language Specification, Java SE 11 Edition",O,"The Java Language Specification, Java SE 11 Edition <br />",opensource
+kamalthakurbscit_gmail_AI,Artificial Intelligence – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Artificial Intelligence – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+kamalthakurbscit_gmail_NGT,Next Generation Technologies – Syllabus (2018 - 2019) [Mumbai University] ,K,"<div><b><u>Next Generation Technologies – Syllabus (2018 - 2019) [Mumbai University] </u></b><br /></div><div><br /></div><div><i></i><div>Software Project Management, Internet of Things, Artificial Intelligence, Advanced Web Programming, Linux System Administration, Enterprise Java, Next Generation Technologies, Elective - I, Elective - II, </div><div>semester v, bscit, mumbai university, syllabus, 2018-2019, </div></div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+StandfordWeek1A,Standford Week 1 A,R,intro to java programming ,"['opensource', 'community']"
+OOPSR2017,OOPSR 2017,K,"
+
+<p class=""MsoNormal"" style=""margin-bottom:12pt;text-align:justify;line-height:150%;"">This book “Object Oriented Programming” is about basic idea towards
+object oriented programming with Java. It provides clear view towards object
+oriented mechanism adapted in programming languages. It provides a preliminary
+study on understanding Java with several illustration program. It affords procedural
+footsteps from command-line to graphical user interface.</p>
+
+","['opensource', 'community']"
+ERIC_ED592860,ERIC ED592860: Using Chess Programming in Computer Education,E,"Chess programming is an old and venerable branch of game development. In the modern computing environment, it encompasses the development of chess engines, chess user interfaces (UIs), chess tournament broadcast tools, chess databases, endgame tablebases (EGTBs) and opening books. In this paper, the author shares his multi-year experience of utilizing most of these components of chess programming in teaching undergraduate courses in computer science (CS) and computer and information technology (CIT). The courses at different levels were taught at Edinboro University of Pennsylvania and, most recently, at Purdue Polytechnic Columbus, formerly called Purdue College of Technology Columbus. They involved teaching programming in C, C++ and Java, as well as system administration. We will discuss the courses' structure and learning outcomes, the choices of tools and equipment, how the courses progressed, individual assignments and team projects, the lessons learned, the specifics of getting the students engaged, and the author's plans for the future work aimed at improvement of programming and computer networking skills of Purdue Polytechnic students via their involvement in different aspects of chess programming. [For the full proceedings, see ED592847.]","['ericarchive', 'additional_collections']"
+DTIC_ADA409209,DTIC ADA409209: Anatomical Models for Virtual Reality and Web-Based Applications,D,"We present a methodology for the creation, manipulation and transmission of 3D anatomical models starting from stacks of medical images. The anatomical information for the models is first segmented from the images and then used by a surface reconstruction algorithm to create 3D meshes that accurately represent the surface of the organs being modeled. The meshes are then exported in an open format for manipulation in a graphics platform. Using high-end graphics algorithms we render and texture-map our meshes. We can also deform the meshes and assign physical and material properties to them. Our models can be used for virtual reality applications and can also be transmitted over the Internet for remote interactive visualization and retrieval.","['dticarchive', 'additional_collections']"
+rfc8353,Generic Security Service API Version 2: Java Bindings Update,M. Upadhyay,"The Generic Security Services Application Programming Interface (GSS-API) offers application programmers uniform access to security services atop a variety of underlying cryptographic mechanisms. This document updates the Java bindings for the GSS-API that are specified in ""Generic Security Service API Version 2: Java Bindings Update"" (RFC 5653). This document obsoletes RFC 5653 by adding a new output token field to the GSSException class so that when the initSecContext or acceptSecContext methods of the GSSContext class fail, it has a chance to emit an error token that can be sent to the peer for debugging or informational purpose. The stream-based GSSContext methods are also removed in this version.",rfcseries
+2018JavaNotesForProfessionals,Java Notes for Professionals,S,"<p>The <i>Java® Notes for Professionals</i> book is compiled from <a href=""https://archive.org/details/documentation-dump.7z"" rel=""nofollow"">Stack Overflow Documentation</a>, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified.</p>
+<p>Book created for educational purposes and is not affiliated with Java group(s), company(s) nor Stack Overflow. All trademarks belong to their respective company owners.</p>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+ERIC_ED590377,ERIC ED590377: Dynamic Program Visualization on Android Smartphones for Novice Java Programmers,E,"Dynamic program visualization tools helps to reduce the cognitive load of students in learning programming. However, to authors' understanding there is no dynamic program visualization tool that can be used in a widely available smartphones. In this study, we design a Dynamic visualization engine for java programs that is integrated to java code interpreter that runs on android smartphones. This tool will be valuable to students who do not have access to computers. It can also increase productivity in smartphone usage among lower secondary schools students. [For the complete proceedings, see ED590271.]","['ericarchive', 'additional_collections']"
+httpsierj.injournalindex.phpierjarticleview1534,EXPLORING KOTLIN’S ENHANCEMENTS FOR MULTIPLATFORM PROJECTS,P,"<span style=""color:rgba(0,0,0,0.87);font-family:'Noto Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, 'Oxygen-Sans', Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;font-size:14px;background-color:rgb(255,255,255);"">There has been a huge growing interest for using the newly launched Kotlin programming language in scientific and engineering applications. While Java which is one of the most widely used programming languages and also the official language of Android development, there are various reasons why Java might not always be the best option for various projects. This is just because Kotlin truly offers several features, which other traditional languages (C, C++, Java and FORTRAN) lack. Also, the historic poor performance of Java stops it from being widely used in scientific applications. Kotlin 1.2 was a major new release and a big step on the road towards enabling the use of Kotlin across all components of a modern application and multiplatform project. This study explores the major improvements and feature scopes over the year of the newly released enhanced version of Kotlin.</span>","['journals_contributions', 'journals']"
+the-java-language-specification-java-se-10-edition,"The Java Language Specification, Java SE 10 Edition",O,"The Java Language Specification, Java SE 10 Edition <br />",opensource
+ijtret-vol2-issue1-6,STT-TTS Conversion Engine for Facilitating impaired people to Communicate on normal voice call,S,"<div>The disabled (hearing and speech impaired people) find it difficult to communicate through a normal voice call. They require the ability to talk/listen remotely and this is unavoidable in emergency situations. To rectify this problem we propose a speech recognizing and conversion android application that has two major modules- a speech to text engine and a text to speech engine. The former receives an incoming call as the input and converts it to text which will be displayed on an interface, the latter receives the text on the interface and uses android speech synthesis to generate a voice and transmits it to the other end. It is to be noted that it’s not mandatory for both users in the communication to have the app, only the disabled people will have the app.</div><div><br /></div>","['opensource', 'community']"
+2018eloquentjavascript,Eloquent JavaScript: A Modern Introduction to Programming,M,"<br />JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.<br /><br />This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track.<br /><br />As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to:<br /><br /><ul><li>Understand the essential elements of programming, including syntax, control, and data</li><li>Organize and clarify your code with object-oriented and functional programming techniques</li><li>Script the browser and make basic web applications</li><li>Use the DOM effectively to interact with browsers</li><li>Harness Node.js to build servers and utilities</li></ul><br /><div>Isn't it time you became fluent in the language of the Web?</div>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+apostilas-java-etec,Apostilas de Programação Java,E,"Apostilas de Programação Java, Etec Prof. Horácio Augusto da Silveira, 2018.","['booksbylanguage_portuguese', 'booksbylanguage']"
+intrinsically-typed-definitional-interpreters,Intrinsically-Typed Definitional Interpreters for Imperative Languages,C,"<div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">Casper Bach Poulsen; Arjen Rouvoet; Andrew Tolmach; Robbert Krebbers; Eelco Visser</span></div><div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""><br /></span></div><div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">A definitional interpreter defines the semantics of an object language in terms of the (well-known) semantics</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> of a host language, enabling understanding and validation of the semantics through execution. Combining</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> a definitional interpreter with a separate type system requires a separate type safety proof. An alternative</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> approach, at least for pure object languages, is to use a dependently-typed language to encode the object </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">language type system in the definition of the abstract syntax. Using such intrinsically-typed abstract syntax </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">definitions allows the host language type checker to verify automatically that the interpreter satisfies type</span> <span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">safety. Does this approach scale to larger and more realistic object languages, and in particular to languages </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">with mutable state and objects?</span><br /><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""><br /></span></div><div><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">In this paper, we describe and demonstrate techniques and libraries in Agda that successfully scale up</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> intrinsically-typed definitional interpreters to handle rich object languages with non-trivial binding structures</span> <span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">and mutable state. While the resulting interpreters are certainly more complex than the simply-typed</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">λ</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">-</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">calculus interpreter we start with, we claim that they still meet the goals of being concise, comprehensible,</span> <span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">and executable, while guaranteeing type safety for more elaborate object languages. We make the following</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> contributions: (1) A</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">dependent-passing style</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">technique for hiding the weakening of indexed values as they </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">propagate through monadic code. (2) An Agda library for programming with</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">scope graphs</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">and</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">frames</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">, which</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> provides a uniform approach to dealing with name binding in intrinsically-typed interpreters. (3) Case studies</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> of intrinsically-typed definitional interpreters for the simply-typed</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> </span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">λ</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr"">-calculus with references (STLC+Ref)</span><span style=""font-size:14.944px;font-family:sans-serif;"" dir=""ltr""> and for a large subset of Middleweight Java (MJ).</span></div>","['opensource', 'community']"
+java-the-complete-reference-eleventh-edition,java-the-complete-reference-eleventh-edition,S,"<span style=""color:rgb(51,51,51);font-family:'Amazon Ember', Arial, sans-serif;font-size:14px;background-color:rgb(255,255,255);"">The definitive guide to Java programming—thoroughly revised for long-term support release Java SE 11. Fully updated for the current version of Java, Java SE 11, This practical guide from Oracle press shows, step by step, how to design, write, troubleshoot, run, and maintain high-performance Java programs. Inside, bestselling author Herbert schildt covers the entire Java language, including its syntax, Keywords, and libraries. The book lays out cutting-edge programming techniques and best practices. Java: the complete reference, eleventh edition features clear explanations, detailed code samples, and real-world examples that demonstrate how Java can be put to work in the real world. Javabeans, servlets, applets, swing, Lambda expressions, multithreading, and the default interface method are thoroughly discussed. Readers will get full details on all of the new features and functions available in Java SE 11. Highlights: 1. Designed for novice, intermediate, and professional programmers alike 2. Source code for all examples and projects are available for download 3. Written in the clear, uncompromising style herb schildt is famous for.</span>","['opensource', 'community']"
+perf-zine,Profiling & tracing with perf,J,"<blockquote><p>Want to get better at profiling & tracing your programs on Linux? perf is a super useful tool, but it’s fairly complicated and I found it hard to get started with. Over the last 4 years, I’ve learned a lot about how perf works, and I’ve compressed what I know into this zine for you!</p>
+<p>You’ll learn how you can use perf to profile programs in many different programming languages (C, node.js, Java, Rust, and more!), how to count any kernel event you’re interested in (syscalls! network packets sent!), how to analyze the data that perf gives you, and more!</p>
+</blockquote>
+
+<p><a href=""https://wizardzines.com/zines/perf/"" rel=""nofollow"">https://wizardzines.com/zines/perf/</a></p>","['zines_inbox', 'zines']"
+NASA_NTRS_Archive_20170012220,NASA Technical Reports Server (NTRS) 20170012220: QSPIN: A High Level Java API for Quantum Computing Experimentation,N,"QSPIN is a high level Java language API for experimentation in QC models used in the calculation of Ising spin glass ground states and related quadratic unconstrained binary optimization (QUBO) problems. The Java API is intended to facilitate research in advanced QC algorithms such as hybrid quantum-classical solvers, automatic selection of constraint and optimization parameters, and techniques for the correction and mitigation of model and solution errors. QSPIN includes high level solver objects tailored to the D-Wave quantum annealing architecture that implement hybrid quantum-classical algorithms [Booth et al.] for solving large problems on small quantum devices, elimination of variables via roof duality, and classical computing optimization methods such as GPU accelerated simulated annealing and tabu search for comparison. A test suite of documented NP-complete applications ranging from graph coloring, covering, and partitioning to integer programming and scheduling are provided to demonstrate current capabilities.","['NASA_NTRS_Archive', 'additional_collections']"
+DTIC_AD1043395,DTIC AD1043395: Verified compilation of Concurrent Managed Languages,D,"The goal of the Havoc project was to explore new proof techniques and methodologies that would enable scalable and modular verification of modern concurrent programming languages like Java or C# . The efforts undertaken during the lifetime of this effort focused on (a) new proof techniques, specifically the use of refinement methods and tactics to simplify reasoning about interferences in proving invariants about concurrent code; (b) incorporating precise notions of memory models, both at the processor and language level, to enable compilation to exploit and be faithful to language definitions and processor features; (c) new designs for compiler intermediate representations that facilitate mechanized proofs and verification; and (d) a realistic case study that combines these ideas to prove the correctness of a state-of-the-art concurrent garbage collector.","['dticarchive', 'additional_collections']"
+ERIC_EJ1161807,ERIC EJ1161807: The Effect of Animation in Multimedia Computer-Based Learning and Learning Style to the Learning Results,E,"The effectiveness of a learning depends on four main elements, they are content, desired learning outcome, instructional method and the delivery media. The integration of those four elements can be manifested into a learning module which is called multimedia learning or learning by using multimedia. In learning context by using computer-based multimedia, there are two main things that need to be noticed so that the learning process can run effectively: how the content is presented, and what the learner's chosen way in accepting and processing the information into a meaningful knowledge. First it is related with the way to visualize the content and how people learn. The second one is related with the learning style of the learner. This research aims to investigate the effect of the type of visualization--static vs animated--on a multimedia computer-based learning, and learning styles--visual vs verbal, towards the students' capability in applying the concepts, procedures, principles of Java programming. Visualization type act as independent variables, and learning styles of the students act as a moderator variable. Moreover, the instructional strategies followed the Component Display Theory of Merril, and the format of presentation of multimedia followed the Seven Principles of Multimedia Learning of Mayer and Moreno. Learning with the multimedia computer-based learning has been done in the classroom. The subject of this research was the student of STMIK-STIKOM Bali in odd semester 2016-2017 which followed the course of Java programming. The Design experiments used multivariate analysis of variance, MANOVA 2 x 2, with a large sample of 138 students in 4 classes. Based on the results of the analysis, it can be concluded that the animation in multimedia interactive learning gave a positive effect in improving students' learning outcomes, particularly in the applying the concepts, procedures, and principles of Java programming. The difference of students' learning styles--visual or verbal, it can also gave the different effect in students' learning results acquisition. There was no interaction effect between the factors of visualization type and learning styles.","['ericarchive', 'additional_collections']"
+the-java-language-specification-java-se-9-edition,"The Java Language Specification, Java SE 9 Edition",O,"The Java Language Specification, Java SE 9 Edition<br />",opensource
+android-8.7-cc,The Busy Coder's Guide to Android Development (Version 8.7),M,"<p>Do you want comprehensive information about how to develop Android apps? This book contains over 200 chapters, covering everything from the first steps in getting an app going to advanced development techniques. Use the search field in the nav bar to see what is inside this book and the rest of the CommonsWare library!</p>
+
+<p>This book is published in PDF, EPUB, and MOBI/Kindle formats, for use in your favorite digital book reader. Or, read directly in your Web browser on <a href=""https://wares.commonsware.com"" rel=""nofollow"">the Warescription site</a>, complete with full-text searching.</p>","['folkscanomy_computer_inbox', 'folkscanomy_computer', 'folkscanomy', 'additional_collections']"
+ERIC_EJ1140879,ERIC EJ1140879: Java vs. Python Coverage of Introductory Programming Concepts: A Textbook Analysis,E,"In this research, we compare two languages, Java and Python, by performing a content analysis of words in textbooks that describe important programming concepts. Our goal is to determine which language has better textbook support for teaching introductory programming courses. We used the TextSTAT program to count how often our list of concept words appear in a sample of Java and Python textbooks. We summarize and compare the results, leading to several conclusions that relate to the choice of language for a CS0 or CS1 course.","['ericarchive', 'additional_collections']"
+ERIC_EJ1142289,ERIC EJ1142289: Understanding Learners' Motivation and Learning Strategies in MOOCs,E,"MOOCs (Massive Open Online Courses) have changed the way in which OER (Open Educational Resources) are bundled by teachers and consumed by learners. MOOCs represent an evolution towards the production and offering of structured quality OER. Many institutions that were initially reluctant to providing OER have, however, joined the MOOC wave. Nevertheless, MOOCs detractors strongly criticize their high dropout rates. The dropout rate is a commonly accepted metric of success for traditional education, but it may not be as suitable when dealing with OER, in general, and with MOOCs, in particular, since learners' motivations to take a course are very diverse, and certain self-regulated learning strategies are required to tackle the lack of personalized tutoring and keep pace in the course. This paper presents an empirical study on the motivation and learning strategies of MOOC learners. Six thousand three hundred and thirty-five learners from 160 countries answered a self-report 7-point Likert-type questionnaire based on the Motivated Strategies for Learning Questionnaire (MSLQ) as part of a MOOC titled ""Introduction to Programming with Java"". Results indicate that learners were highly motivated and confident to do well in the course. Learning strategies, however, can be improved, especially regarding time management.","['ericarchive', 'additional_collections']"
+NASA_NTRS_Archive_20170004398,NASA Technical Reports Server (NTRS) 20170004398: Electronics and Software Engineer for Robotics Project Intern,N,"I was assigned to mentor high school students for the 2017 First Robotics Competition. Using a team based approach, I worked with the students to program the robot and applied my electrical background to build the robot from start to finish. I worked with students who had an interest in electrical engineering to teach them about voltage, current, pulse width modulation, solenoids, electromagnets, relays, DC motors, DC motor controllers, crimping and soldering electrical components, Java programming, and robotic simulation. For the simulation, we worked together to generate graphics files, write simulator description format code, operate Linux, and operate SOLIDWORKS. Upon completion of the FRC season, I transitioned over to providing full time support for the LCS hardware team. During this phase of my internship I helped my co-intern write test steps for two networking hardware DVTs , as well as run cables and update cable running lists.","['NASA_NTRS_Archive', 'additional_collections']"
+arxiv-1703.10674,User Interface Design Smell: Automatic Detection and Refactoring of Blob Listeners,Arnaud Blouin,"User Interfaces (UIs) intensively rely on event-driven programming: widgets send UI events, which capture users' interactions, to dedicated objects called controllers. Controllers use several UI listeners that handle these events to produce UI commands. First, we reveal the presence of design smells in the code that describes and controls UIs. Second, we demonstrate that specific code analyses are necessary to analyze and refactor UI code, because of its coupling with the rest of the code. We conducted an empirical study on four large Java Swing and SWT open-source software systems. We study to what extent the number of UI commands that a UI listener can produce has an impact on the change- and fault-proneness of the UI listener code. We develop a static code analysis for detecting UI commands in the code. We identify a new type of design smell, called Blob Listener that characterizes UI listeners that can produce more than two UI commands. We propose a systematic static code analysis procedure that searches for Blob Listeners that we implement in InspectorGuidget. We conducted experiments on the four software systems for which we manually identified 53 instances of Blob Listener. InspectorGuidget successfully detected 52 Blob Listeners out of 53. The results exhibit a precision of 81.25% and a recall of 98.11%. We then developed a semi-automatically and behavior-preserving refactoring process to remove Blob Listeners. 49.06% of the 53 Blob Listeners were automatically refactored. Patches for JabRef, and FreeCol have been accepted and merged. Discussions with developers of the four software systems assess the relevance of the Blob Listener. This work shows that UI code also suffers from design smells that have to be identified and characterized. We argue that studies have to be conducted to find other UI design smells and tools that analyze UI code must be developed.","['arxiv', 'journals']"
+arxiv-1703.08803,Automatic Detection of GUI Design Smells: The Case of Blob Listener,Valéria Lelli,"Graphical User Interfaces (GUIs) intensively rely on event-driven programming: widgets send GUI events, which capture users' interactions, to dedicated objects called controllers. Controllers implement several GUI listeners that handle these events to produce GUI commands. In this work, we conducted an empirical study on 13 large Java Swing open-source software systems. We study to what extent the number of GUI commands that a GUI listener can produce has an impact on the change-and fault-proneness of the GUI listener code. We identify a new type of design smell, called Blob listener that characterizes GUI listeners that can produce more than two GUI commands. We show that 21 % of the analyzed GUI controllers are Blob listeners. We propose a systematic static code analysis procedure that searches for Blob listener that we implement in InspectorGuidget. We conducted experiments on six software systems for which we manually identified 37 instances of Blob listener. InspectorGuidget successfully detected 36 Blob listeners out of 37. The results exhibit a precision of 97.37 % and a recall of 97.59 %. Finally, we propose coding practices to avoid the use of Blob listeners.","['arxiv', 'journals']"
+arxiv-1703.06576,A Model-Derivation Framework for Software Analysis,Bugra M. Yildiz,"Model-based verification allows to express behavioral correctness conditions like the validity of execution states, boundaries of variables or timing at a high level of abstraction and affirm that they are satisfied by a software system. However, this requires expressive models which are difficult and cumbersome to create and maintain by hand. This paper presents a framework that automatically derives behavioral models from real-sized Java programs. Our framework builds on the EMF/ECore technology and provides a tool that creates an initial model from Java bytecode, as well as a series of transformations that simplify the model and eventually output a timed-automata model that can be processed by a model checker such as UPPAAL. The framework has the following properties: (1) consistency of models with software, (2) extensibility of the model derivation process, (3) scalability and (4) expressiveness of models. We report several case studies to validate how our framework satisfies these properties.","['arxiv', 'journals']"
+NASA_NTRS_Archive_20170002277,NASA Technical Reports Server (NTRS) 20170002277: Ground System Architectures Workshop GMSEC SERVICES SUITE (GSS): an Agile Development Story,N,"The GMSEC (Goddard Mission Services Evolution Center) Services Suite (GSS) is a collection of tools and software services along with a robust customizable web-based portal that enables the user to capture, monitor, report, and analyze system-wide GMSEC data. Given our plug-and-play architecture and the needs for rapid system development, we opted to follow the Scrum Agile Methodology for software development. Being one of the first few projects to implement the Agile methodology at NASA GSFC, in this presentation we will present our approaches, tools, successes, and challenges in implementing this methodology. The GMSEC architecture provides a scalable, extensible ground and flight system for existing and future missions. GMSEC comes with a robust Application Programming Interface (GMSEC API) and a core set of Java-based GMSEC components that facilitate the development of a GMSEC-based ground system. Over the past few years, we have seen an upbeat in the number of customers who are moving from a native desktop application environment to a web based environment particularly for data monitoring and analysis. We also see a need to provide separation of the business logic from the GUI display for our Java-based components and also to consolidate all the GUI displays into one interface. This combination of separation and consolidation brings immediate value to a GMSEC-based ground system through increased ease of data access via a uniform interface, built-in security measures, centralized configuration management, and ease of feature extensibility.","['NASA_NTRS_Archive', 'additional_collections']"
+arxiv-1702.07103,Discriminating Traces with Time,Saeid Tizpaz-Niari,"What properties about the internals of a program explain the possible differences in its overall running time for different inputs? In this paper, we propose a formal framework for considering this question we dub trace-set discrimination. We show that even though the algorithmic problem of computing maximum likelihood discriminants is NP-hard, approaches based on integer linear programming (ILP) and decision tree learning can be useful in zeroing-in on the program internals. On a set of Java benchmarks, we find that compactly-represented decision trees scalably discriminate with high accuracy---more scalably than maximum likelihood discriminants and with comparable accuracy. We demonstrate on three larger case studies how decision-tree discriminants produced by our tool are useful for debugging timing side-channel vulnerabilities (i.e., where a malicious observer infers secrets simply from passively watching execution times) and availability vulnerabilities.","['arxiv', 'journals']"
