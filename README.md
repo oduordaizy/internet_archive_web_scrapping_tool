@@ -7,5 +7,5 @@ To scrape books from the Internet Archive, run the scraping script with the appr
 ![image](https://github.com/user-attachments/assets/a4b8bdd8-dffa-434d-b1fa-b549e0c301a3)
 
 ### Arguments:
---query: The search term to find books on the Internet Archive.
---output: The directory where the scraped content will be saved.
+--query: The search term to find books on the Internet Archive. <br>
+--output: The directory where the scraped content will be saved. <br>
